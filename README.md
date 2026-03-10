@@ -1,6 +1,6 @@
 # Roomify
 
-App Link:   [![Open in StackBlitz](https://puter.com/app/roomify-34)]
+App Link:   [![Roomify](https://puter.com/app/roomify-34)]
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
